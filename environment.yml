@@ -5,16 +5,16 @@ channels:
  - defaults
 dependencies:
  - python=3.8*
- - pangeo-notebook=2021.03.06
+ - pangeo-notebook=2021.02.19
  - pip=20
  - pytorch::pytorch=1.7.0=py3.8_cuda11.0.221_cudnn8.0.3_0
  - pytorch::torchvision=0.8.1
- - cudatoolkit=11.0.221
  - efficientnet-pytorch=0.6.3
- - timm=0.3.2
  - conda-forge::openjpeg=2.4.0
  - conda-forge::sqlite=3.34.0
  - conda-forge::poppler=0.89.0
+ - cudatoolkit=11.0.221
+ - timm=0.3.2
  - matplotlib-base
  - adlfs>=0.5.9
  - xarray
