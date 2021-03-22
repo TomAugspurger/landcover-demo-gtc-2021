@@ -23,3 +23,4 @@ dependencies:
  - datashader
  - numpy=1.19.5
  - stac-vrt
+ - rioxarray
