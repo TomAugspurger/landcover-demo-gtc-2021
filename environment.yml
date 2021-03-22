@@ -20,7 +20,8 @@ dependencies:
  - adlfs>=0.5.9
  - xarray
  - jupyterlab-nvdashboard
- - hvplot
+ # https://github.com/holoviz/hvplot/issues/576
+ - hvplot==0.7.0
  - datashader
  - numpy=1.19.5
  - stac-vrt

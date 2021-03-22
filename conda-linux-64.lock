@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: c86b6346be58cc412cd54f186aa9cbab65f1d1fee16c61fc86752bf3d8239475
+# env_hash: d7e8af40e4d1f5dc8a0a3b77b5f706a424f28220115143addb6a6749a3e6c429
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2#7eb5d4ffeee663caa1635cd67071bc1b
@@ -278,7 +278,7 @@ https://conda.anaconda.org/conda-forge/noarch/nbgitpuller-0.9.0-py_0.tar.bz2#ce0
 https://conda.anaconda.org/conda-forge/noarch/pangeo-dask-2021.02.07-hd8ed1ab_0.tar.bz2#e36775a32776b4b788e971056bcc2356
 https://conda.anaconda.org/conda-forge/linux-64/widgetsnbextension-3.5.1-py38h578d9bd_4.tar.bz2#beb8a105545382ba138c81c926289b5b
 https://conda.anaconda.org/conda-forge/noarch/dask-labextension-3.0.0-py_0.tar.bz2#3000bce49db43f8c5a20314b39071700
-https://conda.anaconda.org/conda-forge/noarch/hvplot-0.7.1-pyh44b312d_0.tar.bz2#440851c33f336e5a6eb107120946869a
+https://conda.anaconda.org/conda-forge/noarch/hvplot-0.7.0-pyhd3deb0d_0.tar.bz2#b2e8747e6b00559ed461c979766a2ed7
 https://conda.anaconda.org/conda-forge/noarch/ipywidgets-7.6.3-pyhd3deb0d_0.tar.bz2#536a9ed6d9e740f2b83d1a3c388e4388
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab-2.3.0-pyhd8ed1ab_0.tar.bz2#3b13532430b88f7db01a8183b32b0bba
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab-nvdashboard-0.4.0-py_1.tar.bz2#db9d9de7fbfb8de2084bf8af033f01eb
