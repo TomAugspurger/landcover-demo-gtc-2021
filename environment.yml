@@ -1,0 +1,25 @@
+name: notebook
+channels:
+ - pytorch
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.8*
+ - pangeo-notebook=2021.03.06
+ - pip=20
+ - pytorch::pytorch=1.7.0=py3.8_cuda11.0.221_cudnn8.0.3_0
+ - pytorch::torchvision=0.8.1
+ - cudatoolkit=11.0.221
+ - efficientnet-pytorch=0.6.3
+ - timm=0.3.2
+ - conda-forge::openjpeg=2.4.0
+ - conda-forge::sqlite=3.34.0
+ - conda-forge::poppler=0.89.0
+ - matplotlib-base
+ - adlfs>=0.5.9
+ - xarray
+ - jupyterlab-nvdashboard
+ - hvplot
+ - datashader
+ - numpy=1.19.5
+ - stac-vrt
