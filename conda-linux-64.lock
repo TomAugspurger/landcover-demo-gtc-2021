@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: 3601ac04fee5f2283730bb2296c1daf0a2d4e7f80378bec8e9843412719da9ef
+# env_hash: 97cb8ba8656e9598721932db9be3a3230c67776e629a353a6472a636713238c9
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2#7eb5d4ffeee663caa1635cd67071bc1b
@@ -241,6 +241,7 @@ https://conda.anaconda.org/conda-forge/noarch/jupyter_telemetry-0.1.0-pyhd8ed1ab
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.1.2-pyh9f0ad1d_0.tar.bz2#2cbd910890bb328e8959246a1e16fac7
 https://conda.anaconda.org/conda-forge/noarch/nbformat-5.1.2-pyhd8ed1ab_1.tar.bz2#9633dbb668ac1f9266427672816899dc
 https://conda.anaconda.org/conda-forge/noarch/oauthlib-3.0.1-py_0.tar.bz2#faaf2a8fd1cddecbf1818fcf0ed3a3b6
+https://conda.anaconda.org/conda-forge/noarch/rioxarray-0.3.1-pyhd8ed1ab_0.tar.bz2#fb30cecb4a1b0972e993ae9c2486c9f0
 https://conda.anaconda.org/conda-forge/noarch/stac-vrt-1.0.3-pyhd8ed1ab_0.tar.bz2#37c80eda830d53a761bddd8e2a8ff7e3
 https://conda.anaconda.org/conda-forge/noarch/timm-0.3.2-pyhd8ed1ab_0.tar.bz2#6ea6eee0b81cd0ac8302bab6c32e3fd8
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
